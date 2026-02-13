@@ -1,0 +1,13 @@
+
+---
+
+# 📄 `requirements.txt`
+
+```txt
+fastapi
+uvicorn
+pandas
+numpy
+matplotlib
+pytest
+pydantic
