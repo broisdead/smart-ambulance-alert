@@ -1,0 +1,5 @@
+patient_id,timestamp,heart_rate,spo2,bp_sys,bp_dia,motion,phase,true_event,artifact_flag,artifact_detected
+0,0,74.2,98.1,121,79,0.18,normal,0,0,0
+0,605,96.5,92.4,118,77,1.92,artifact,0,1,1
+0,910,110.4,95.2,112,74,0.32,distress,1,0,0
+0,1350,128.8,92.4,97,68,1.45,distress+artifact,1,1,1

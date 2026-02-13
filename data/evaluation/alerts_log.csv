@@ -1,0 +1,5 @@
+patient_id,timestamp,anomaly_score,risk_score,alert_triggered,true_event,artifact_detected
+0,612,0.82,0.71,0,0,1
+0,945,1.43,0.88,1,1,0
+0,960,1.51,0.92,1,1,0
+
